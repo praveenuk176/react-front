@@ -1,0 +1,21 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    padding-top: 100px;
+    height: 500px;
+    width: 400px;
+    gap: 30px;
+    border-radius: 40px;
+}
+.image{
+    height: 200px;
+    width: 270px;
+    
+}
+.caption{
+    height: 200px;
+    width: 300px;
+}
